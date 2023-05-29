@@ -13,4 +13,6 @@ Powerpoint Game inspired by Bugcat Capoo
 
 ![image](https://github.com/mjasper30/WhaCapoo/assets/81204548/b28694cd-eee2-48ea-bd89-5303f921db0e)
 
+![image](https://github.com/mjasper30/WhaCapoo/assets/81204548/99490b7a-e05d-4447-a8c6-13179a327093)
+
 ![image](https://github.com/mjasper30/WhaCapoo/assets/81204548/a5a39a1a-95b2-4180-9b8d-6851ac121108)
